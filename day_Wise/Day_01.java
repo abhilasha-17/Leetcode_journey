@@ -1,5 +1,5 @@
 
-# 2235- add two integers:
+// 1. 2235- add two integers:
 
 class Solution {
     public int sum(int num1, int num2) {
@@ -8,7 +8,7 @@ class Solution {
     }
 }
 
-# 2413- smallest even multiple:
+// 2. 2413- smallest even multiple:
 
 class Solution {
     public int smallestEvenMultiple(int n) {
@@ -21,7 +21,7 @@ class Solution {
     }
 }
 
-# 2011- final-value-of-variable-after-performing-operations:
+// 3. 2011- final-value-of-variable-after-performing-operations:
 
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
